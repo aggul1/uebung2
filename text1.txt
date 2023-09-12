@@ -1,5 +1,9 @@
 Hallo,
 Mein C tut W
+<<<<<<< HEAD
 Darum kann ich nicht ins Training
 Sorry
 Viele Grüße
+=======
+Darum kann ich nicht zum Spiel
+>>>>>>> zweig2
